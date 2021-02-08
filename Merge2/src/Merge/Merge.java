@@ -7,6 +7,8 @@ public class Merge {
 		System.out.println("Hiiiiiii");
 		System.out.println("welcome to possible");
 		System.out.println("Mindtree");
+		System.out.println("Greetings");
+		System.out.println("hello");
 		
 	}
 
